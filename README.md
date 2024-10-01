@@ -28,3 +28,4 @@ I was part of a team that created an AI to automatically find and identify multi
 
 We pushed our model to 88.6% accuracy, which could speed up how researchers and doctors analyze cancer cells. It's exciting to think this might play a small part in improving cancer diagnosis and research.
 
+![Cell Segmentation](WhatsApp Image 2024-10-01 at 18.04.06_cc6a16a6.jpg)

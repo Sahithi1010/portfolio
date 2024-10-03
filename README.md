@@ -31,7 +31,8 @@ I was part of a team that created an AI to find and identify multiple myeloma ce
 
 We pushed our model to 88.6% accuracy, which could speed up how researchers and doctors analyze cancer cells. It's exciting to think this might play a small part in improving cancer diagnosis and research.
 
-![Cell Segmentation](/cell_seg.jpg)
+![image](https://github.com/user-attachments/assets/68e92afa-18bb-4819-a22a-07dd3d499198)
+
 
 ### Estimation of maternal mortality rate using regression techniques
 
@@ -40,6 +41,10 @@ I worked on a project that used data science to tackle a really important issue:
 The cool part was digging into the data and finding out which factors actually made a difference. Some were what you'd expect, but others were surprising. We used some pretty advanced stats to make sure our predictions were reliable.
 
 In the end, we created a tool that could help predict where maternal mortality might be highest. The hope is that this kind of work could help healthcare planners and policymakers focus their efforts where they're needed most. It was a great example of how data science can be used to address real-world problems.
+
+
+![WhatsApp Image 2024-10-02 at 22 51 38_821081be](https://github.com/user-attachments/assets/646914e9-1e41-40d5-8976-a52106941d86)
+
 
 
 ### Predictive Customer Churn Analysis
@@ -52,6 +57,10 @@ The best part was seeing how our work helped the company keep more customers hap
 
 This project taught me a ton about working with messy real-world data, the ins and outs of predictive modeling, and how to turn complex findings into actionable strategies. Plus, it was just plain fun to play detective with data!
 
+
+![Designer (1)](https://github.com/user-attachments/assets/221397f5-4917-4e75-a434-f4fe6f244d11)
+
+
 ### Credit Card Fraud detection system
 
 I headed up a project to create a system that could spot fraudulent credit card transactions. It was a bit like training a very picky robot to play 'spot the difference' with financial data.
@@ -59,3 +68,8 @@ I headed up a project to create a system that could spot fraudulent credit card 
 We dove into the world of machine learning, teaching our system to tell the difference between normal purchases and potential fraud. It was challenging - after all, we had to think like both the good guys and the bad guys to make it work.
 
 This project was a great mix of technical challenges and real-world impact. Plus, it was pretty cool to feel like we were using math and computers to fight crime!
+
+
+![Designer](https://github.com/user-attachments/assets/86ba60fc-c755-4cc2-af8d-2d19f01bc538)
+
+

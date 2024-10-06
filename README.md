@@ -1,4 +1,6 @@
-# Data Science Graduate Student
+# Data Science Student 
+
+_I am Sudha Sahithi Murikipudi, a Data Science graduate student at Florida State University with a passion for transforming data into actionable insights. With hands-on experience in data analysis, machine learning, and predictive modeling, I have worked on projects ranging from customer churn analysis to cell segmentation for medical applications. My time as a Data Analyst at Cognizant further honed my skills in data management, reporting, and collaborating with cross-functional teams to drive data-driven decision-making. I thrive in dynamic environments and am always eager to learn new tools and techniques to solve complex problems._
 
 #### Technical Skills: Python, SQL, MATLAB, R, AWS
 #### Analysis and modeling: Statistics, Machine learning, Data Manipulation, Data Analytics, Data Visualisation

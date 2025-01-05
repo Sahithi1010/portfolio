@@ -1,6 +1,6 @@
 # Data Science Student 
 
-_I am Sudha Sahithi Murikipudi, a Data Science graduate student at Florida State University with a passion for transforming data into actionable insights. With hands-on experience in data analysis, machine learning, and predictive modeling, I have worked on projects ranging from customer churn analysis to cell segmentation for medical applications. My time as a Data Analyst at Cognizant further honed my skills in data management, reporting, and collaborating with cross-functional teams to drive data-driven decision-making. I thrive in dynamic environments and am always eager to learn new tools and techniques to solve complex problems._
+_I am Sudha Sahithi Murikipudi, a Data Science graduate student at Florida State University passionate about transforming data into actionable insights. With hands-on experience in data analysis, machine learning, and predictive modeling, I have worked on projects ranging from customer churn analysis to cell segmentation for medical applications. My time as a Data Analyst at Cognizant further honed my skills in data management, reporting, and collaborating with cross-functional teams to drive data-driven decision-making. I thrive in dynamic environments and am always eager to learn new tools and techniques to solve complex problems._
 
 #### Technical Skills: Python, SQL, MATLAB, R, AWS
 #### Analysis and modeling: Statistics, Machine learning, Data Manipulation, Data Analytics, Data Visualisation
@@ -14,7 +14,7 @@ _I am Sudha Sahithi Murikipudi, a Data Science graduate student at Florida State
 ## Work Experience
 **Data Analyst @ Cognizant Technology Solutions(_Sep 2022-Jun2023_)**
 
-_As part of a dynamic seven-person team, I played a crucial role in revolutionizing Union Bank's data management practices. This project encompassed the entire data lifecycle, from collection to analysis, and had a significant impact on the bank's operations._
+_As part of a dynamic seven-person team, I played a crucial role in revolutionizing Union Bank's data management practices. This project encompassed the entire data lifecycle, from collection to analysis, and significantly impacted the bank's operations._
 
 - I engineered a robust data pipeline that streamlined the collection and cleansing of financial data. This system increased data accuracy by 30% and reduced processing time by 40%, enabling more timely decision-making.
 - Leveraging my expertise in database management, I redesigned the bank's data storage architecture. This optimization improved query performance by 50% and reduced storage costs by 25%, enhancing overall system efficiency.
@@ -27,9 +27,15 @@ _This project not only honed my technical skills in data analysis and database m
 
 
 ## Projects
+### Efficient Handwritten Text Recognition Using Gated-CNN-BGRU Architecture for Diverae Applications
+
+Developed a cutting-edge handwritten text recognition system using a Gated-CNN-BGRU model, optimized for digitizing diverse handwriting styles with high accuracy. Leveraged advanced preprocessing techniques like deslanting and data augmentation to handle noisy datasets and handwriting variability. Stored data efficiently in HDF5 format, ensuring streamlined training processes. Achieved a Character Error Rate of 9.7%, showcasing the model's performance and adaptability for resource-constrained environments. Focused on real-world applications such as digitizing historical manuscripts and automating postal services.
+
+![image](https://github.com/user-attachments/assets/42d06887-b63a-4dc4-85da-4ee9cd8eabfb)
+
 ### Cell Segmentation of Multiple Myeloma Plasma Cells
 
-I was part of a team that created an AI to find and identify multiple myeloma cells in medical images automatically. We combined some cutting-edge image labeling techniques with machine learning to make it happen. It was a mix of frustrating and fascinating—kind of like teaching a computer to see, but only for very specific things.
+I was part of a team that created an AI to automatically find and identify multiple myeloma cells in medical images. We combined some cutting-edge image labeling techniques with machine learning to make it happen. It was a mix of frustrating and fascinating—kind of like teaching a computer to see, but only for very specific things.
 
 We pushed our model to 88.6% accuracy, which could speed up how researchers and doctors analyze cancer cells. It's exciting to think this might play a small part in improving cancer diagnosis and research.
 

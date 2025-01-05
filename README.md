@@ -29,7 +29,7 @@ _This project not only honed my technical skills in data analysis and database m
 ## Projects
 ### Efficient Handwritten Text Recognition Using Gated-CNN-BGRU Architecture for Diverae Applications
 
-Developed a cutting-edge handwritten text recognition system using a Gated-CNN-BGRU model, optimized for digitizing diverse handwriting styles with high accuracy. Leveraged advanced preprocessing techniques like deslanting and data augmentation to handle noisy datasets and handwriting variability. Stored data efficiently in HDF5 format, ensuring streamlined training processes. Achieved a Character Error Rate of 9.7%, showcasing the model's performance and adaptability for resource-constrained environments. Focused on real-world applications such as digitizing historical manuscripts and automating postal services.
+Designed and implemented a Gated-CNN-BGRU model for efficient handwritten text recognition, addressing diverse handwriting styles and noisy datasets. Preprocessed over 9,000 text lines with advanced techniques like deslanting, resizing, and data augmentation. Optimized storage with HDF5 format, ensuring seamless integration and faster training. Achieved a Character Error Rate of 9.7% and a Word Error Rate of 33.7%. The model utilized dynamic sequence alignment and a combination of convolutional and recurrent layers, making it highly adaptable for resource-constrained environments and real-world applications like document digitization and postal automation.
 
 ![image](https://github.com/user-attachments/assets/42d06887-b63a-4dc4-85da-4ee9cd8eabfb)
 

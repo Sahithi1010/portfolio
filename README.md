@@ -27,13 +27,13 @@ _This project not only honed my technical skills in data analysis and database m
 
 
 ## Projects
-### Efficient Handwritten Text Recognition Using Gated-CNN-BGRU Architecture for Diverae Applications
+### 1.Efficient Handwritten Text Recognition Using Gated-CNN-BGRU Architecture for Diverae Applications
 
 Designed and implemented a Gated-CNN-BGRU model for efficient handwritten text recognition, addressing diverse handwriting styles and noisy datasets. Preprocessed over 9,000 text lines with advanced techniques like deslanting, resizing, and data augmentation. Optimized storage with HDF5 format, ensuring seamless integration and faster training. Achieved a Character Error Rate of 9.7% and a Word Error Rate of 33.7%. The model utilized dynamic sequence alignment and a combination of convolutional and recurrent layers, making it highly adaptable for resource-constrained environments and real-world applications like document digitization and postal automation.
 
 ![image](https://github.com/user-attachments/assets/42d06887-b63a-4dc4-85da-4ee9cd8eabfb)
 
-### Cell Segmentation of Multiple Myeloma Plasma Cells
+### 2.Cell Segmentation of Multiple Myeloma Plasma Cells
 
 I was part of a team that created an AI to automatically find and identify multiple myeloma cells in medical images. We combined some cutting-edge image labeling techniques with machine learning to make it happen. It was a mix of frustrating and fascinating—kind of like teaching a computer to see, but only for very specific things.
 
@@ -42,7 +42,7 @@ We pushed our model to 88.6% accuracy, which could speed up how researchers and 
 ![image](https://github.com/user-attachments/assets/68e92afa-18bb-4819-a22a-07dd3d499198)
 
 
-### Estimation of maternal mortality rate using regression techniques
+### 3.Estimation of maternal mortality rate using regression techniques
 
 I worked on a project that used data science to tackle a really important issue: maternal mortality. We built a mathematical model to predict Maternal Mortality Rates based on various health and social factors.
 
@@ -55,7 +55,7 @@ In the end, we created a tool that could help predict where maternal mortality m
 
 
 
-### Predictive Customer Churn Analysis
+### 4.Predictive Customer Churn Analysis
 
 I led a project to build an AI model that could predict which telecom customers were likely to leave us. It was like teaching a computer to read minds but with data instead of crystal balls.
 
@@ -69,7 +69,7 @@ This project taught me a ton about working with messy real-world data, the ins a
 ![Designer (1)](https://github.com/user-attachments/assets/221397f5-4917-4e75-a434-f4fe6f244d11)
 
 
-### Credit Card Fraud detection system
+### 5.Credit Card Fraud detection system
 
 I headed up a project to create a system that could spot fraudulent credit card transactions. It was a bit like training a very picky robot to play 'spot the difference' with financial data.
 
